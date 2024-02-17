@@ -38,6 +38,7 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
+theme: hitchens-theme
 plugins:
   - jekyll-paginate
 
