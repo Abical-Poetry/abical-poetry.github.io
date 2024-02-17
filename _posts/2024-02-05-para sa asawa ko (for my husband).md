@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Para sa Asawa Ko (For My Husband)"
+author: "Abigail Rose Lockhart-Calpito"
+categories: literature
+---
+
 Para sa Asawa Ko (For My Husband)
 
 AVA, AVA. 
